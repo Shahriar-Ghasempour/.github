@@ -17,4 +17,4 @@
 # لیست پروژه ها
 project's name| Teacher | University | Repo
 --------------------|---------|-------------|--------
-روش پژوهش و ارائه | Dr. Hamid Saadatfar | University of Birjand | [link]()
+روش پژوهش و ارائه | Dr. Hamid Saadatfar | University of Birjand | [link](https://github.com/Shahriar-Ghasempour/Research-method-and-presentation)
