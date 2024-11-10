@@ -18,4 +18,4 @@
 project's name| Teacher | University | Repo
 --------------------|---------|-------------|--------
 روش پژوهش و ارائه | Dr. Hamid Saadatfar | University of Birjand | [link](https://github.com/Shahriar-Ghasempour/Research-method-and-presentation)
-کارگاه برنامه نویسی پایتون | Matin Hosseinpour | University of Birjand | [link](https://github.com/Shahriar-Ghasempour/python-workshop)
+کارگاه برنامه نویسی پایتون | [Matin Hosseinpour](https://github.com/matinHosseinpour) | University of Birjand | [link](https://github.com/Shahriar-Ghasempour/python-workshop)
